@@ -6,6 +6,4 @@ lstm_traj.lstm_build()
 #initialize the model
 lstm_traj.lstm_train()
 
-a = 100
-
 #train the mdoel
